@@ -12,11 +12,11 @@ Matlab, simulink, Mobile Robotics Simulation Toolbox
 
 ## Step
 
-# Adaptive control only
+### Adaptive control only
 AdaptiveControlTrajectoryTracking.slx
 This simulink file can track circle trajectory and linear trajectory with adaptive control.
 
-# Formation control and Adative control
+### Formation control and Adative control
 Adaptive_and_Formation_control_main.slx
 This simulink file uses adaptive control for the leader, on the other hand the formation will change in 60 sec.
 

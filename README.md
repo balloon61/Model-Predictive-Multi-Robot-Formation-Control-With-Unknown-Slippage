@@ -10,7 +10,7 @@ Know that the report is a rewrite version of these two select papers.
 ## Requirement
 Matlab, simulink, Mobile Robotics Simulation Toolbox
 
-## Step
+## Simulation
 
 ### Adaptive control only
 AdaptiveControlTrajectoryTracking.slx
